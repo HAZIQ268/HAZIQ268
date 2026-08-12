@@ -13,7 +13,7 @@ I build **CRM, SaaS, AI tools & custom software** that help businesses automate,
 🌐 Full-Stack Web Apps  
 📊 Dashboards & Admin Panels  
 ☁️ SaaS Products  
-📱 Mobile Apps  
+📱 Mobile Apps
 
 ## 🛠️ Tech
 
@@ -27,27 +27,27 @@ I build **CRM, SaaS, AI tools & custom software** that help businesses automate,
 
 ## ⭐ Featured Work
 
-**✈️ Visaro Travel**  
-Travel & tourism platform with business management features.  
-`React · TypeScript · Node.js · Express · MySQL`
-
-**📊 ZyvexCRM**  
+**1. 📊 ZyvexCRM**  
 CRM platform for leads, customers, sales & business workflows.  
 `React · Node.js · Express · MongoDB`
 
-**🧠 PENTAGON**  
-Experimental AI/IDE project exploring transformers, CUDA & desktop tooling.  
-`Python · Transformers · CUDA · Electron`
+**2. ✈️ Visaro Travel**  
+Travel & tourism platform with business management features.  
+`React · TypeScript · Node.js · Express · MySQL`
 
-**🌦️ Climate Agency**  
+**3. 🌦️ Climate Agency**  
 Modern weather platform with Python backend and database integration.  
 `Vue · JavaScript · Flask · Python · MongoDB`
 
-**✈️ Karnel Travels**  
+**4. 🧠 PENTAGON**  
+Experimental AI/IDE project exploring transformers, CUDA & desktop tooling.  
+`Python · Transformers · CUDA · Electron`
+
+**5. ✈️ Karnel Travels**  
 Travel management application built with ASP.NET technologies.  
 `ASP.NET Core · Web API · JavaScript · SCSS`
 
-**🏨 TimeToRent**  
+**6. 🏨 TimeToRent**  
 Property & rental management application.  
 `PHP · Laravel · MySQL · Bootstrap`
 
@@ -63,7 +63,7 @@ Building **CRM, SaaS, AI automation & custom business software** for startups an
 🤖 Exploring AI automation  
 🧩 Building CRM & SaaS products  
 🌍 Solving real business problems  
-📚 Learning & shipping  
+📚 Learning & shipping
 
 ## 🤝 Let's Build
 
