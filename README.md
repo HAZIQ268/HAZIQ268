@@ -2,31 +2,34 @@
 
 ### Founder @ HZX Labs · Full Stack Engineer · Product Builder
 
-I build **CRM systems, SaaS products, AI-powered tools, and custom business software** that help startups and growing businesses automate workflows, save time, and scale faster.
+I build **CRM systems, SaaS products, AI-powered tools, and custom business software** that help startups and growing businesses automate workflows, reduce manual work, and scale smarter.
 
-Currently building at **HZX Labs** — turning real business problems into practical software solutions.
+At **HZX Labs**, I turn real-world business problems into practical, scalable software.
+
+> **Less manual work. Better systems. Faster growth.**
 
 ---
 
 ## 🚀 What I Build
 
-* 🧩 **Custom CRM & Business Systems**
-* 🤖 **AI-Powered Automation**
-* 📊 **Internal Dashboards & Admin Portals**
-* 🌐 **Full-Stack Web Applications**
-* 📱 **Mobile Applications**
-* ☁️ **SaaS Products**
+🧩 **Custom CRM & Business Systems**
+🤖 **AI-Powered Automation**
+📊 **Internal Dashboards & Admin Portals**
+🌐 **Full-Stack Web Applications**
+☁️ **SaaS Products**
+📱 **Mobile Applications**
 
-> I don't just build features.
-> **I build systems around how businesses actually work.**
+I don't just build software for the sake of building it.
+
+**I build around how businesses actually work.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I Work With
 
 **Frontend**
 
-React.js · Next.js · JavaScript · TypeScript · HTML · CSS · Tailwind CSS · Bootstrap
+React.js · Next.js · JavaScript · TypeScript · Tailwind CSS · Bootstrap
 
 **Backend**
 
@@ -36,21 +39,17 @@ Node.js · Express.js · ASP.NET Core · Laravel · Python
 
 MongoDB · MySQL · SQL Server · Firebase
 
-**Mobile**
+**Mobile & Tools**
 
-Flutter · Dart
-
-**Tools**
-
-Git · GitHub · Postman · REST APIs · Vite · Framer Motion
+Flutter · Dart · Git · GitHub · Postman · REST APIs · Vite · Framer Motion
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Things I'm Building
 
 ### ✈️ Visaro Travel
 
-A modern travel & tourism platform with a full-stack architecture and administrative management system.
+A full-stack travel & tourism platform designed to give businesses a modern digital presence with powerful management capabilities.
 
 **React.js · TypeScript · Node.js · Express.js · MySQL**
 
@@ -58,7 +57,7 @@ A modern travel & tourism platform with a full-stack architecture and administra
 
 ### 📧 Invox AI Email Assistant
 
-An AI-powered email productivity platform designed to help professionals generate replies, organize communication, and automate repetitive email workflows.
+An AI-powered SaaS product focused on making email communication faster and smarter through AI-generated replies and workflow automation.
 
 **React.js · Node.js · Gmail API · Supabase · AI**
 
@@ -66,7 +65,7 @@ An AI-powered email productivity platform designed to help professionals generat
 
 ### 📊 ZyvexCRM
 
-A smart CRM concept focused on helping growing sales teams manage leads, customers, workflows, and business operations.
+A smart CRM concept designed to help growing teams manage leads, customers, sales workflows, and day-to-day operations.
 
 **React.js · Node.js · Express.js · MongoDB**
 
@@ -74,45 +73,47 @@ A smart CRM concept focused on helping growing sales teams manage leads, custome
 
 ### 🧠 PENTAGON
 
-An experimental AI/IDE project exploring transformer architecture, tokenization, CUDA acceleration, and desktop development workflows.
+An experimental AI development project exploring transformer architecture, tokenization, CUDA acceleration, and desktop development workflows.
 
 **Python · Transformers · CUDA · Electron**
 
 ---
 
-## 🏢 HZX Labs
+## 🏢 About HZX Labs
 
-**HZX Labs** is my software venture focused on building practical digital systems for startups and SMEs.
+**HZX Labs** is my software venture focused on helping startups and SMEs replace spreadsheets, repetitive tasks, and disconnected tools with custom digital systems.
 
-We work around:
+### We focus on:
 
-**CRM · SaaS · AI Automation · Internal Tools · Client Portals · Business Process Automation**
+**CRM Systems · SaaS · AI Automation · Internal Tools · Client Portals · Business Process Automation**
 
-The goal is simple:
+The mission is simple:
 
-**Less manual work. Better systems. Faster growth.**
+> **Help businesses work smarter, automate faster, and grow with better software.**
 
 ---
 
-## 📈 Currently
+## 🔭 Currently Building
 
-🔭 Building products at **HZX Labs**
-
-🤖 Exploring **AI automation & intelligent business systems**
-
-🧩 Building **CRM & SaaS products**
-
-🌎 Open to interesting freelance & software opportunities
-
-📚 Continuously learning and shipping
+* 🚀 Growing **HZX Labs**
+* 🤖 Exploring **AI-powered business automation**
+* 🧩 Building **CRM & SaaS products**
+* 🌍 Working with businesses on custom software solutions
+* 📚 Learning, experimenting, and shipping consistently
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're building a startup, growing a business, or have a workflow that needs better software — I'd love to hear about it.
+Building a startup?
+Running a growing business?
+Have a workflow that feels like it should be automated?
 
-**Build something useful. Make it scalable. Keep shipping. 🚀**
+**Let's talk.**
+
+I'm always interested in building useful things with good people.
+
+**Build something useful. Keep it simple. Keep shipping. 🚀**
 
 [LinkedIn](https://www.linkedin.com/in/mhaziqhabibkhan)
 
@@ -120,9 +121,15 @@ If you're building a startup, growing a business, or have a workflow that needs 
 
 ---
 
-### ⚡ Fun fact
+### ⚡ A little about me
 
-I enjoy turning **"this should be automated"** into actual software. 😄
+I like turning:
+
+> **"This should be automated."**
+
+into:
+
+> **"It's automated."** 😄
 
 ---
 
